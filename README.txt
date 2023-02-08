@@ -1,5 +1,5 @@
 
-************************************************************ReadME**************************************************************** 
+************************************************************ReadME********************************************************
 
 Tp 1: ce tp a pour but de créer un formulaire d'identification sécurisé pour les utilisateurs, il comprend les fichiers suivants :
 * 'Requete_sql.sql' => il contient les différentes requettes sql nécessaires à la création de la base de données et les tables associées ( il peut nécessiter une adaptation en fonction des spécifications) 
